@@ -1,0 +1,39 @@
+body{
+    background-image: url(./bg-photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container{
+    width: 80vw;
+    margin: auto;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.positiveValues{
+    color: greenyellow;
+}
+
+.negativeValues{
+    color: rgb(255, 47, 78);
+}
+
+table{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 500px;
+    border-collapse: collapse;
+    border-radius: 20px;
+}
+tr{
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
